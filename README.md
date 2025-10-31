@@ -23,6 +23,4 @@ This project demonstrates responsive layout, modern UI styling, and a clean, min
 
 ---
 
-## 📁 Project Structure
-
 
