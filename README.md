@@ -5,7 +5,7 @@ This project demonstrates responsive layout, modern UI styling, and a clean, min
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 - Responsive **hero section** with image and text layout  
 - Custom **navigation bar** with call-to-action button  
