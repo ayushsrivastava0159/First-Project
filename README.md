@@ -21,6 +21,6 @@ This project demonstrates responsive layout, modern UI styling, and a clean, min
 - **CSS3**
 - **Bootstrap Icons**
 
----
+--- 
 
 
